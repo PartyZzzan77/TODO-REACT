@@ -2,6 +2,6 @@
 ```
 git clone https://github.com/PartyZzzan77/TODO-REACT.git
 cd TODO-REACT
-npm update
+npm i
 npm start
 ```
